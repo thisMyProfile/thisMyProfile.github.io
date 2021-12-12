@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&family=IBM+Plex+Sans:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav{
+    background-color:white;
+}
+#nav ul{
+    font-family:Balsamiq Sans;
+}
+#nav ul>li:hover{
+ background-color:#6e57e075 ;
+ border-radius: 10px;
+}
+#logo{
+    font-family: Pacifico;
+}
+.title{
+    font-family: Pacifico;
+}
